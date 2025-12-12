@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
+I am a **Frontend Developer** 💻
 
-<!--
-**Sarvardev035/Sarvardev035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Coding](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-Here are some ideas to get you started:
+## Skills
+- HTML5 ⚡
+- CSS3 🎨
+- JavaScript 🟨
+- React ⚛️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Motivation
+![Success](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
