@@ -1,19 +1,19 @@
-<h1 align="center">
-  Hi 👋, I'm Sarvar
-</h1>
+<h1 align="center">Hi 👋, I'm Sarvar</h1>
 
 <h3 align="center">
-  🚀 Frontend Developer · ⚛️ React · 🌌 Three.js · UI Engineer
+🚀 Frontend Engineer · ⚛️ React · 🌌 Three.js · 🧠 Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/>
 </p>
 
 <p align="center">
-✨ Crafting immersive web experiences <br>
-🌱 Learning Backend & API workflows <br>
-💡 Turning ideas into interactive products
+💼 Freelance Developer since <b>2023</b> <br>
+🏆 Participant of <b>ICPC</b> & <b>Huawei ICT</b> International Competitions <br>
+💡 Building scalable, interactive & production-ready web systems
 </p>
 
 ---
@@ -22,23 +22,25 @@
 <tr>
 <td width="140" align="center">
 
-🌌  
+💻  
 ⚛️  
-🎨  
+🌌  
 🧠  
-🚀  
-📫  
+🤖  
+☁️  
 
 </td>
 <td>
 
 ## 🧑‍💻 About Me
 
-- 💻 Frontend-first developer with **strong JavaScript & React**
-- 🌌 Passionate about **Three.js, animations & visual effects**
-- 🧪 Experienced with **API-driven & mock-based UIs**
-- 🎯 Preparing for **real-world frontend interviews**
-- 🧠 Improving **architecture thinking & performance**
+- 💻 Frontend-first engineer with **strong JavaScript & TypeScript**
+- ⚛️ Expert in **React architecture & UI logic**
+- 🌌 Focused on **3D web, Three.js & animations**
+- 🧪 Experience with **REST APIs, mock data & async flows**
+- 🧠 Competitive programming mindset (**ICPC style**)  
+- 🤖 Exploring **AI agents & automation**
+- 📚 Always improving **performance, scalability & clean code**
 
 </td>
 </tr>
@@ -46,57 +48,90 @@
 
 ---
 
-## 🌌 3D & Visual Effects Stack
+## 🛠 FULL TECH STACK
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebGL-darkblue?style=flat"/>
+### ⚛️ Frontend Core
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,webpack"/>
+</p>
+
+### 🌌 3D / Animations / Effects
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs"/>
   <img src="https://img.shields.io/badge/GSAP-green?style=flat"/>
   <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat"/>
-  <img src="https://img.shields.io/badge/CSS%20Animations-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/WebGL-darkblue?style=flat"/>
 </p>
 
 <p>
   <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="120"/>
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="120"/>
+</p>
+
+### 🧠 Backend / APIs / Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgres"/>
+</p>
+
+### 🤖 AI / Data / Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://img.shields.io/badge/PyTorch-red?style=flat"/>
+  <img src="https://img.shields.io/badge/NumPy-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Pandas-purple?style=flat"/>
+  <img src="https://img.shields.io/badge/MLflow-lightgreen?style=flat"/>
+</p>
+
+### ☁️ Cloud / DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,gitlab"/>
+</p>
+
+### ⚙️ Low-Level / Other
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/C%23-green?style=flat"/>
+  <img src="https://img.shields.io/badge/.NET-purple?style=flat"/>
 </p>
 
 ---
 
-## ⚛️ Frontend Core
+## 🏆 Experience & Achievements
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,webpack"/>
-</p>
+🚀 **Freelance Frontend Engineer (2023 – Present)**  
+• Building production-ready UIs  
+• Working with real clients & requirements  
+• Delivering scalable, responsive systems  
+
+🧠 **International Competitions**  
+• ICPC contest participant  
+• Huawei ICT Competition participant  
+• Strong algorithmic & problem-solving foundation  
+
+🌌 **Advanced UI & 3D Experiments**  
+• Three.js interactive scenes  
+• Performance-optimized rendering  
+• Animation-driven UX  
 
 ---
 
 ## 📌 Featured Projects
 
 🌌 **3D Interactive UI (Three.js)**  
-- Particle effects & camera movement  
-- Interactive animations  
-- Optimized rendering  
-
 🧩 **Project Management Dashboard**  
-- Clean UI logic  
-- Filters, status, priority  
-- Frontend-only architecture  
-
 🛒 **Online Store (Intern Task)**  
-- API data fetching  
-- Responsive layout  
-- Component-driven design  
+
+➡️ More advanced projects coming soon…
 
 ---
 
-## 🎯 Goals
+## 🎯 Vision
 
-- 🚀 Become a **high-impact Frontend Engineer**
-- 🌍 Build immersive **3D web experiences**
-- 🔁 Transition into **Full-Stack development**
-- 🤖 Integrate **AI tools into UI products**
+- 🚀 Become a **top-tier Frontend Engineer**
+- 🌌 Lead in **3D & immersive web**
+- 🔁 Grow into **Full-Stack Architect**
+- 🤖 Combine **AI + UI + Automation**
 
 ---
 
@@ -105,6 +140,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarvardev035&theme=tokyonight&hide_border=true"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=sarvardev035&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvardev035&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -122,8 +161,6 @@
     <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
 </p>
-
----
 
 <p align="center">
 🌌 <i>"The web is no longer flat — let's make it alive."</i>
