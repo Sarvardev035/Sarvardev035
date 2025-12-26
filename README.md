@@ -1,21 +1,130 @@
-# 💫 About Me:
-# Hi 👋, I'm Sarvar<br><br>🚀 Frontend Developer | Building clean & scalable web interfaces  <br>🌱 Currently learning Backend development  <br>💡 Passionate about turning ideas into real products<br><br>---<br><br>## 🧑‍💻 About Me<br><br>- 💻 Frontend-focused developer with solid JavaScript fundamentals<br>- 🧠 Experienced in building UI without backend (mock data, APIs)<br>- 🎯 Preparing for frontend interviews (tasks, UI logic, real cases)<br>- 📚 Continuously improving system thinking and code quality<br><br>---<br><br>## 🛠 Tech Stack<br><br>**Frontend**<br>- HTML5, CSS3, SCSS  <br>- JavaScript (ES6+)  <br>- React  <br>- Tailwind CSS  <br><br>**Tools**<br>- Git & GitHub  <br>- Figma (UI understanding)  <br>- VS Code  <br>- Libraries <br>c#<br>AI agents <br><br>**Learning**<br>- Backend fundamentals  <br>- APIs & full-stack workflows  <br><br>---<br><br>## 📌 Featured Projects<br><br>🔹 **Project Management UI**  <br>Frontend-only web app with:<br>- Projects list  <br>- Tasks with status, priority, due date  <br>- Filters and clean UI  <br><br>🔹 **Online Store (Intern Task)**  <br>- Product listing  <br>- Data fetching  <br>- Responsive layout  <br><br>➡️ More projects coming soon…<br><br>---<br><br>## 📈 Goals<br><br>- Become a strong Frontend Engineer  <br>- Transition into Full-Stack development  <br>- Work on real-world, high-impact products  <br><br>---<br><br>## 📫 Contact<br><br>- GitHub: https://github.com/Sarvardev035<br>- LinkedIn: https://www.linkedin.com/in/sarvar-sharipov-4bb187332/<br><br>---<br><br>> *"Real developers are built by solving real problems."*<br>
+<h1 align="center">
+  Hi 👋, I'm Sarvar
+</h1>
 
+<h3 align="center">
+  🚀 Frontend Developer · ⚛️ React · 🌌 Three.js · UI Engineer
+</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarvarsharipov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarvar-sharipov-4bb187332/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sarvardev035) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sarvarbek-sharipov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarvarsharipov1035@gmail.com) 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarvardev035&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sarvardev035&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvardev035&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarvardev035&limit=5&theme=merko&combine_all_yearly_contributions=true)
+<p align="center">
+✨ Crafting immersive web experiences <br>
+🌱 Learning Backend & API workflows <br>
+💡 Turning ideas into interactive products
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sarvardev035&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="140" align="center">
+
+🌌  
+⚛️  
+🎨  
+🧠  
+🚀  
+📫  
+
+</td>
+<td>
+
+## 🧑‍💻 About Me
+
+- 💻 Frontend-first developer with **strong JavaScript & React**
+- 🌌 Passionate about **Three.js, animations & visual effects**
+- 🧪 Experienced with **API-driven & mock-based UIs**
+- 🎯 Preparing for **real-world frontend interviews**
+- 🧠 Improving **architecture thinking & performance**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌌 3D & Visual Effects Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebGL-darkblue?style=flat"/>
+  <img src="https://img.shields.io/badge/GSAP-green?style=flat"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat"/>
+  <img src="https://img.shields.io/badge/CSS%20Animations-blue?style=flat"/>
+</p>
+
+<p>
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="120"/>
+</p>
+
+---
+
+## ⚛️ Frontend Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,webpack"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+🌌 **3D Interactive UI (Three.js)**  
+- Particle effects & camera movement  
+- Interactive animations  
+- Optimized rendering  
+
+🧩 **Project Management Dashboard**  
+- Clean UI logic  
+- Filters, status, priority  
+- Frontend-only architecture  
+
+🛒 **Online Store (Intern Task)**  
+- API data fetching  
+- Responsive layout  
+- Component-driven design  
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a **high-impact Frontend Engineer**
+- 🌍 Build immersive **3D web experiences**
+- 🔁 Transition into **Full-Stack development**
+- 🤖 Integrate **AI tools into UI products**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvardev035&theme=tokyonight&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sarvardev035&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sarvar-sharipov-4bb187332">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://t.me/goofy">
+    <img src="https://img.icons8.com/color/48/telegram-app.png"/>
+  </a>
+  <a href="mailto:sarvarsharipov1035@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+🌌 <i>"The web is no longer flat — let's make it alive."</i>
+</p>
