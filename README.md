@@ -154,7 +154,7 @@
   <a href="https://linkedin.com/in/sarvar-sharipov-4bb187332">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
-  <a href="https://t.me/g0ofy">
+  <a href="https://t.me/go0fy">
     <img src="https://img.icons8.com/color/48/telegram-app.png"/>
   </a>
   <a href="mailto:sarvarsharipov1035@gmail.com">
