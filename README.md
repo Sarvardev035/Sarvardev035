@@ -14,6 +14,8 @@
 💼 Freelance Developer since <b>2023</b> <br>
 🏆 Participant of <b>ICPC</b> & <b>Huawei ICT</b> International Competitions <br>
 💡 Building scalable, interactive & production-ready web systems
+   <br>
+  <i> Startuper and got the level of 10% starups among the 1500 teams and planning to deploy idea into real world and also member of Yoshlar ventures</i>
 </p>
 
 ---
@@ -163,7 +165,6 @@
 </p>
 
 <p align="center">
-🌌 <i>"The web is no longer flat — let's make it alive."</i> <br>
-  <i> Startuper and got the level of 10% starups among the 1500 teams and planning to deploy idea into real world and also member of Yoshlar ventures</i>
+🌌 <i>"The web is no longer flat — let's make it alive."</i>
 </p>
 
