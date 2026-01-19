@@ -163,5 +163,7 @@
 </p>
 
 <p align="center">
-🌌 <i>"The web is no longer flat — let's make it alive."</i>
+🌌 <i>"The web is no longer flat — let's make it alive."</i> <br>
+  <i> Startuper and got the level of 10% starups among the 1500 teams and planning to deploy idea into real world and also member of Yoshlar ventures</i>
 </p>
+
